@@ -6,3 +6,4 @@ A compilation of tautology I came across.
 - I yam what I yam and that's what I yam. - Popeye The Sailor
 - I am at least a 100% sure. - Saurabh, while we were hiking somewhere in Niedersachsen
 - When you'll know you'll know. - Alex while talking to Max in the kitchen
+- They are talking about reintroducing it again. - Hendrik while talking about conscription in Germany
