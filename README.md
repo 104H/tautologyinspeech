@@ -8,3 +8,4 @@ A compilation of tautology I came across.
 - When you'll know you'll know. - Alex while talking to Max in the kitchen
 - They are talking about reintroducing it again. - Hendrik while talking about conscription in Germany
 - You may or may not be right. I am not sure. - Yousuf when talking about Adil's case study
+- I'll see you when I see you. - Hashim, when we we're making plans and I was slightly unwell
