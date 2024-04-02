@@ -10,3 +10,4 @@ A compilation of tautology I came across.
 - You may or may not be right. I am not sure. - Yousuf when talking about Adil's case study
 - I'll see you when I see you. - Hashim, when we we're making plans and I was slightly unwell
 - Anything that is above is higher. - I, when I was explaining libraries for programming the robot
+- I am I. - Walter Klemmer, The Piano Teacher
