@@ -11,3 +11,4 @@ A compilation of tautology I came across.
 - I'll see you when I see you. - Hashim, when we we're making plans and I was slightly unwell
 - Anything that is above is higher. - I, when I was explaining libraries for programming the robot
 - I am I. - Walter Klemmer, The Piano Teacher
+- Wenn er es nicht will dann will er es nicht. - Natalie when we wanted to get Lenny into the cage
