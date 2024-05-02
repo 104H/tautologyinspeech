@@ -12,3 +12,4 @@ A compilation of tautology I came across.
 - Anything that is above is higher. - I, when I was explaining libraries for programming the robot
 - I am I. - Walter Klemmer, The Piano Teacher
 - Wenn er es nicht will dann will er es nicht. - Natalie when we wanted to get Lenny into the cage
+- Wann es funktioniert, funktioniert es. - Matthias when we were talking about cleaning up the experiment program.
