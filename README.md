@@ -13,3 +13,4 @@ A compilation of tautology I came across.
 - I am I. - Walter Klemmer, The Piano Teacher
 - Wenn er es nicht will dann will er es nicht. - Natalie when we wanted to get Lenny into the cage
 - Wann es funktioniert, funktioniert es. - Matthias when we were talking about cleaning up the experiment program.
+- It will be somewhere. - Jannik when I was looking for my smoothie bottle
