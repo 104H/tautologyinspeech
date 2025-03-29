@@ -15,3 +15,4 @@ A compilation of tautology I came across.
 - Wann es funktioniert, funktioniert es. - Matthias when we were talking about cleaning up the experiment program.
 - It will be somewhere. - Jannik when I was looking for my smoothie bottle
 - But it's okay if you've been pre-warned. - Amy when talking about the Kellar Bar taking only cash
+- You don't have to be that person. You have to be you. - Yousuf in his room, I was not paying attention to the conversation.
